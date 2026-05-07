@@ -3,3 +3,4 @@
 [keytana attack 1.MP3](https://github.com/user-attachments/files/27466204/keytana.attack.1.MP3)
 equip sound [keytana equip sound.MP3](https://github.com/user-attachments/files/27466353/keytana.equip.sound.MP3)
 deflex sound [keytana delfect sound.MP3](https://github.com/user-attachments/files/27466421/keytana.delfect.sound.MP3)
+[KEYTANA DEFLEX.MP3](https://github.com/user-attachments/files/27466666/KEYTANA.DEFLEX.MP3)
