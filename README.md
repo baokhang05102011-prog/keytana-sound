@@ -1,1 +1,4 @@
-# keytana-sound
+# keytana-sound [keytana attack 2.MP3](https://github.com/user-attachments/files/27466205/keytana.attack.2.MP3)
+[keytana attack 1.MP3](https://github.com/user-attachments/files/27466204/keytana.attack.1.MP3)
+equip sound [keytana equip sound.MP3](https://github.com/user-attachments/files/27466353/keytana.equip.sound.MP3)
+deflex sound [keytana delfect sound.MP3](https://github.com/user-attachments/files/27466421/keytana.delfect.sound.MP3)
