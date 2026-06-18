@@ -8,3 +8,4 @@ deflex sound [keytana delfect sound.MP3](https://github.com/user-attachments/fil
 [keyrambit attack 2.MP3](https://github.com/user-attachments/files/27467040/keyrambit.attack.2.MP3)
 [keyrambit attack 1.MP3](https://github.com/user-attachments/files/27467038/keyrambit.attack.1.MP3)
 [keynails attack sound.MP3](https://github.com/user-attachments/files/27467185/keynails.attack.sound.MP3)
+[Bat Bow equip.MP3](https://github.com/user-attachments/files/29107263/Bat.Bow.equip.MP3)
